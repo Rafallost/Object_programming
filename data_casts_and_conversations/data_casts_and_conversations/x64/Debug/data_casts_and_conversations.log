@@ -1,0 +1,4 @@
+﻿  data_casts_and_conversations.cpp
+D:\Git_uploads\Object_programming\data_casts_and_conversations\data_casts_and_conversations\data_casts_and_conversations.cpp(80,15): warning C4129: "M": nierozpoznany znak sekwencji ucieczki
+D:\Git_uploads\Object_programming\data_casts_and_conversations\data_casts_and_conversations\data_casts_and_conversations.cpp(87,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  data_casts_and_conversations.vcxproj -> D:\Git_uploads\Object_programming\data_casts_and_conversations\x64\Debug\data_casts_and_conversations.exe

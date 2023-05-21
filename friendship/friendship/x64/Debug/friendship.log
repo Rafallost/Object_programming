@@ -1,0 +1,5 @@
+﻿  friendship.cpp
+D:\Git_uploads\Object_programming\friendship\friendship\friendship.cpp(61,19): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+D:\Git_uploads\Object_programming\friendship\friendship\friendship.cpp(63,48): warning C4804: "<": niebezpieczne użycie typu "bool" w operacji
+D:\Git_uploads\Object_programming\friendship\friendship\friendship.cpp(73,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  friendship.vcxproj -> D:\Git_uploads\Object_programming\friendship\x64\Debug\friendship.exe

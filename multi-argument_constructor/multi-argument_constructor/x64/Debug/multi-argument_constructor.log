@@ -1,0 +1,4 @@
+﻿  multi-argument_constructor.cpp
+D:\Git_uploads\Object_programming\multi-argument_constructor\multi-argument_constructor\multi-argument_constructor.cpp(114,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\Git_uploads\Object_programming\multi-argument_constructor\multi-argument_constructor\multi-argument_constructor.cpp(126,16): warning C4129: "W": nierozpoznany znak sekwencji ucieczki
+  multi-argument_constructor.vcxproj -> D:\Git_uploads\Object_programming\multi-argument_constructor\x64\Debug\multi-argument_constructor.exe
